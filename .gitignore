@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .DS_Store
+**/secure-connect-inbox-app.zip
+.mvn/
 
 ### STS ###
 .apt_generated
